@@ -2,7 +2,7 @@
 
 要点：维护单调递增/递减队列
 
-**This is a noly ,it's nothing!**
+**This is only a note ,it's nothing!**
 
 
 
