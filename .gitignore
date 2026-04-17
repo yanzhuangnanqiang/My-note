@@ -1,0 +1,17 @@
+﻿# binaries
+*.exe
+*.dll
+*.pdb
+
+# build artifacts
+*.o
+*.obj
+*.out
+*.a
+*.lib
+
+# common build folders
+output/
+bin/
+build/
+cmake-build-*/
