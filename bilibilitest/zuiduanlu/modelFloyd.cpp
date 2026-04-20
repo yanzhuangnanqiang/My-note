@@ -22,15 +22,15 @@ int main(){
     //初始化；自己到自己为 0
     for(int i=1;i<=n;i++)
     {
-        dist[i][i] =0;
-        nxt[i][i] =i;
+        dist[i][i] = 0;
+        nxt[i][i] = i;
     }
 
     auto add_edge=[&](int u,int v,long long w){
         //如果有重边，保留更短的那条
         if(w<dist[u][v]){
-            dist[u][v]=w;
-            nxt[u][v]=v;
+            dist[u][v] = w;
+            nxt[u][v] = v;
         }
     };
     // int x,y,z;

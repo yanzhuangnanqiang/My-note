@@ -2,6 +2,14 @@
  * @Author: Hidden Goose yanzhuangqiang@email.ncu.edu.cn
  * @Date: 2026-04-08 19:25:09
  * @LastEditors: Hidden Goose yanzhuangqiang@email.ncu.edu.cn
+ * @LastEditTime: 2026-04-19 09:48:57
+ * @FilePath: \languageFolder\c++test\bilibilitest\binchaji\model.cpp
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
+/*
+ * @Author: Hidden Goose yanzhuangqiang@email.ncu.edu.cn
+ * @Date: 2026-04-08 19:25:09
+ * @LastEditors: Hidden Goose yanzhuangqiang@email.ncu.edu.cn
  * @LastEditTime: 2026-04-09 08:17:03
  * @FilePath: \languageFolder\c++test\bilibilitest.cpp\binchaji\model.cpp
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE

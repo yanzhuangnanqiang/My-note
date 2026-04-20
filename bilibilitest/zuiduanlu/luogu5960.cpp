@@ -23,6 +23,6 @@ int main(){
     cin>>n>>m;
     while(m--){
      int x1,x2,y1,y2,c;
-     cin>>x1>>
+     cin>>x1>>x2>>y1 >>y2>>c;
     return 0;
 }
